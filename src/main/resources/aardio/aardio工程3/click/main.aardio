@@ -1,0 +1,34 @@
+if(response) {
+    import console;
+	import mouse;
+	import key;	
+	import win;
+	
+	var x = request.query("x") || 0;
+	var y = request.query("y") || 0;
+
+ 	console.log(x,y);
+	var hwnd  = win.find("Chrome_WidgetWin_1",null);
+	//win.setFocus(hwnd);
+	win.setForeground(hwnd);
+	//console.varDump(hwnd);
+	var rect= win.getRect(hwnd,true);
+	
+	x+=rect.left;
+	y+=rect.top;
+	
+	console.log(x,y);
+	/**
+	var hwnd  = ::User32.FindWindow(null,"计算器" );
+	var obj = {int left;int top;int right;int bottom;}
+	::User32.GetWindowRect(hwnd,obj); 
+	console.varDump(obj);**/
+	
+ 
+	mouse.move(x,y,true);
+	//mouse.down();
+	//mouse.up();
+	
+	var resultBody = request.query("cb")+"(1)";
+	response.write(resultBody);
+}

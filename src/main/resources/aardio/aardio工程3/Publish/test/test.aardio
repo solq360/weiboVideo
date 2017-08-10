@@ -1,0 +1,12 @@
+import console; 
+
+var url = " //f.us.sinaimg.cn/002iUFf7lx07dkzlpvLa010f0100hlRX0k01.mp4?label=mp4_hd&template=template_6&Expires=1502362175&ssig=f5abxsvhKk&KID=unistore,video";
+console.print(string.startWith(url,"http://",true));
+
+
+url = string.trim(url);
+url=string.replace(url,"^//",1);
+if(!string.startWith(url,"http://",true)){
+	url = "http://"+url;
+}
+console.print(url);

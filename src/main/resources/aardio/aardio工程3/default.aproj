@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="aardio工程3" libEmbed="true" icon="..." ui="console" output="aardio工程3.exe" CompanyName="单位名称" FileDescription="aardio工程3" LegalCopyright="Copyright (C) 单位名称 2017" ProductName="aardio工程3" InternalName="aardio工程3" FileVersion="0.0.0.02" ProductVersion="0.0.0.02" publishDir="/Publish/" dstrip="false">
+	<file name="main" path="main.aardio" comment="启动程序代码"/>
+	<folder name="资源文件" path="res" embed="true"/>
+	<folder name="help" path="help" comment="目录" embed="false">
+		<file name="main.aardio" path="help\main.aardio" comment="help\main.aardio"/>
+	</folder>
+	<folder name="addTask" path="addTask" comment="目录" embed="false">
+		<file name="main.aardio" path="addTask\main.aardio" comment="addTask\index.aardio"/>
+	</folder>
+	<folder name="click" path="click" comment="目录" embed="false">
+		<file name="main.aardio" path="click\main.aardio" comment="click\main.aardio"/>
+	</folder>
+	<folder name="test" path="test" comment="目录" embed="false">
+		<file name="test.aardio" path="test\test.aardio" comment="test\test.aardio"/>
+	</folder>
+</project>

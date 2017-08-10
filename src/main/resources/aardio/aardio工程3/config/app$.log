@@ -1,0 +1,1643 @@
+
+{Line}:#33
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'wsock'
+{Type}:null
+调用栈
+	[string "..."]:33: in main chunk	10	
+
+{Line}:#33
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'wsock'
+{Type}:null
+调用栈
+	[string "..."]:33: in main chunk	10	
+
+{Line}:#44
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'mouse'
+{Type}:null
+调用栈
+	[string "..."]:44: in function <[string "..."]:39>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	12	
+
+{Line}:#44
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'mouse'
+{Type}:null
+调用栈
+	[string "..."]:44: in function <[string "..."]:39>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	12	
+
+{Line}:#44
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'mouse'
+{Type}:null
+调用栈
+	[string "..."]:44: in function <[string "..."]:39>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	12	
+
+{Line}:#35
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'mouse'
+{Type}:null
+调用栈
+	[string "..."]:35: in main chunk	10	
+
+{Line}:#35
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'mouse'
+{Type}:null
+调用栈
+	[string "..."]:35: in main chunk	10	
+
+{Line}:#45
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'mouse'
+{Type}:null
+调用栈
+	[string "..."]:45: in function <[string "..."]:41>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	12	
+
+{Line}:#43
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'mouse'
+{Type}:null
+调用栈
+	[string "..."]:43: in function <[string "..."]:39>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	12	
+
+{Line}:#43
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'win'
+{Type}:null
+调用栈
+	[string "..."]:43: in function <[string "..."]:39>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	12	
+
+{Line}:#43
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:field(table)
+{Name}:'mouse'
+{Type}:null
+调用栈
+	[string "..."]:43: in function <[string "..."]:39>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	12	
+
+{Line}:#43
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:field(table)
+{Name}:'mouse'
+{Type}:null
+调用栈
+	[string "..."]:43: in function <[string "..."]:39>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	12	
+
+{Line}:#40
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:method(table)
+{Name}:'hook'
+{Type}:null
+调用栈
+	[string "..."]:40: in main chunk	10	
+
+{Line}:#40
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:method(table)
+{Name}:'hook'
+{Type}:null
+调用栈
+	[string "..."]:40: in main chunk	10	
+
+{Line}:#41
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:method(table)
+{Name}:'hook'
+{Type}:null
+调用栈
+	[string "..."]:41: in main chunk	10	
+
+{Line}:#45
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(upvalue)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:45: in function <[string "..."]:44>	10	
+
+{Line}:#23
+{File}:...rdio\lib\wsock\tcp\simpleHttpServer.aardio:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(upvalue)
+{Name}:'this'
+{Type}:null
+调用栈
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:23: in function 'run'
+	[string "..."]:45: in function <[string "..."]:44>	11	
+
+{Line}:#23
+{File}:...rdio\lib\wsock\tcp\simpleHttpServer.aardio:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(upvalue)
+{Name}:'this'
+{Type}:null
+调用栈
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:23: in function 'run'
+	[string "..."]:45: in function <[string "..."]:43>	11	
+
+{Line}:#23
+{File}:...rdio\lib\wsock\tcp\simpleHttpServer.aardio:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(upvalue)
+{Name}:'this'
+{Type}:null
+调用栈
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:23: in function 'run'
+	[string "..."]:45: in function <[string "..."]:43>	11	
+
+{Line}:#45
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:field(table)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:45: in function <[string "..."]:43>	10	
+
+{Line}:#46
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(upvalue)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:46: in function <[string "..."]:44>	10	
+
+{Line}:#46
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:field(table)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:46: in function <[string "..."]:44>	10	
+
+{Line}:#46
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:46: in function <[string "..."]:44>	10	
+
+{Line}:#46
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:global(namespace)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:46: in function <[string "..."]:44>	10	
+
+{Line}:#46
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:field(table)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:46: in function <[string "..."]:44>	10	
+
+{Line}:#46
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'$server'
+{Type}:null
+调用栈
+	[string "..."]:46: in function <[string "..."]:44>	10	
+
+{Line}:#46
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:global(namespace)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:46: in function <[string "..."]:44>	10	
+
+{Line}:#46
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:global(namespace)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:46: in function <[string "..."]:44>	10	
+
+{Line}:#47
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:method(table)
+{Name}:'table'
+{Type}:null
+调用栈
+	[string "..."]:47: in function <[string "..."]:46>	10	
+
+{Line}:#47
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:method(table)
+{Name}:'table'
+{Type}:null
+调用栈
+	[string "..."]:47: in function <[string "..."]:46>	10	
+
+{Line}:#47
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:method(table)
+{Name}:'table'
+{Type}:null
+调用栈
+	[string "..."]:47: in function <[string "..."]:46>	10	
+
+{Line}:#49
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:method(table)
+{Name}:'table'
+{Type}:null
+调用栈
+	[string "..."]:49: in function <[string "..."]:47>	10	
+
+{Line}:#23
+{File}:...rdio\lib\wsock\tcp\simpleHttpServer.aardio:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(upvalue)
+{Name}:'this'
+{Type}:null
+调用栈
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:23: in function 'run'
+	[string "..."]:50: in function <[string "..."]:47>	11	
+
+{Line}:#50
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:field(table)
+{Name}:'s'
+{Type}:null
+调用栈
+	[string "..."]:50: in function <[string "..."]:47>	10	
+
+{Line}:#23
+{File}:...rdio\lib\wsock\tcp\simpleHttpServer.aardio:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(upvalue)
+{Name}:'this'
+{Type}:null
+调用栈
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:23: in function 'run'
+	[string "..."]:50: in function <[string "..."]:47>	11	
+
+{Line}:#23
+{File}:...rdio\lib\wsock\tcp\simpleHttpServer.aardio:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(upvalue)
+{Name}:'this'
+{Type}:null
+调用栈
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:23: in function 'run'
+	[string "..."]:50: in function <[string "..."]:47>	11	
+
+{Line}:#23
+{File}:...rdio\lib\wsock\tcp\simpleHttpServer.aardio:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(upvalue)
+{Name}:'this'
+{Type}:null
+调用栈
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:23: in function 'run'
+	[string "..."]:53: in function <[string "..."]:47>	11	
+
+{Line}:#23
+{File}:...rdio\lib\wsock\tcp\simpleHttpServer.aardio:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(upvalue)
+{Name}:'this'
+{Type}:null
+调用栈
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:23: in function 'run'
+	[string "..."]:56: in function <[string "..."]:50>	11	
+
+{Line}:#23
+{File}:...rdio\lib\wsock\tcp\simpleHttpServer.aardio:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(upvalue)
+{Name}:'this'
+{Type}:null
+调用栈
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:23: in function 'run'
+	[string "..."]:56: in function <[string "..."]:50>	11	
+
+{Line}:#51
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:self(namespace)
+{Name}:'wsock'
+{Type}:null
+调用栈
+	[string "..."]:51: in function <[string "..."]:48>	10	
+
+{Line}:#57
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:field(table)
+{Name}:'cb'
+{Type}:null
+调用栈
+	[string "..."]:57: in function <[string "..."]:52>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	12	
+
+{Line}:#57
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}:concatenate
+{Type}:null
+调用栈
+	[string "..."]:57: in function <[string "..."]:52>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	10	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#14
+{File}:...io\project\aardio工程3\click\main.aardio:
+----------------------
+ 
+{Attempt to}:perform arithmetic on
+{Kind}:variable(local)
+{Name}:'x'
+{Type}:null
+调用栈
+	...io\project\aardio工程3\click\main.aardio:14: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#14
+{File}:...io\project\aardio工程3\click\main.aardio:
+----------------------
+ 
+{Attempt to}:perform arithmetic on
+{Kind}:variable(local)
+{Name}:'x'
+{Type}:null
+调用栈
+	...io\project\aardio工程3\click\main.aardio:14: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#15
+{File}:...io\project\aardio工程3\click\main.aardio:
+----------------------
+ 
+{Attempt to}:perform arithmetic on
+{Kind}:variable(local)
+{Name}:'x'
+{Type}:null
+调用栈
+	...io\project\aardio工程3\click\main.aardio:15: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#16
+{File}:...io\project\aardio工程3\click\main.aardio:
+----------------------
+ 
+{Attempt to}:perform arithmetic on
+{Kind}:variable(local)
+{Name}:'x'
+{Type}:null
+调用栈
+	...io\project\aardio工程3\click\main.aardio:16: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#7
+{File}:...io\project\aardio工程3\click\main.aardio:
+----------------------
+ 
+{Attempt to}:perform arithmetic on
+{Kind}:method(table)
+{Name}:'query'
+{Type}:null
+调用栈
+	...io\project\aardio工程3\click\main.aardio:7: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#7
+{File}:...io\project\aardio工程3\click\main.aardio:
+----------------------
+ 
+{Attempt to}:perform arithmetic on
+{Kind}:method(table)
+{Name}:'query'
+{Type}:null
+调用栈
+	...io\project\aardio工程3\click\main.aardio:7: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#7
+{File}:...io\project\aardio工程3\click\main.aardio:
+----------------------
+ 
+{Attempt to}:perform arithmetic on
+{Kind}:method(table)
+{Name}:'query'
+{Type}:null
+调用栈
+	...io\project\aardio工程3\click\main.aardio:7: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#7
+{File}:...io\project\aardio工程3\click\main.aardio:
+----------------------
+ 
+{Attempt to}:perform arithmetic on
+{Kind}:method(table)
+{Name}:'query'
+{Type}:null
+调用栈
+	...io\project\aardio工程3\click\main.aardio:7: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#7
+{File}:...io\project\aardio工程3\click\main.aardio:
+----------------------
+ 
+{Attempt to}:perform arithmetic on
+{Kind}:method(table)
+{Name}:'query'
+{Type}:null
+调用栈
+	...io\project\aardio工程3\click\main.aardio:7: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'down'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#11
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'downTask'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:11: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#16
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'downTask'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:16: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#16
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'downTask'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:16: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#16
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'downTask'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:16: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#7
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:call
+{Kind}:self(namespace)
+{Name}:'downTask'
+{Type}:null
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:7: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#41
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:41: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#41
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:41: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#41
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:41: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#42
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:42: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#42
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:42: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#42
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:42: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#42
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:42: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#42
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:42: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#42
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:42: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#42
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:42: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "..."]:51: in function <[string "..."]:50>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#49
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:49: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{Line}:#49
+{File}:...\project\aardio工程3\addTask\main.aardio:
+----------------------
+ 
+{Attempt to}:concatenate
+{Kind}:variable(local)
+{Name}:'ret'
+{Type}:boolean
+调用栈
+	...\project\aardio工程3\addTask\main.aardio:49: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	14	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	
+
+{File}:...\project\aardio工程3\addTask\main.aardio
+{Line}:#39
+{Error}:
+{Calling}:'trim'
+{Bad argument}:@1
+'
+{Expected}:string
+{Got}:null'
+调用栈
+	[kernel]: in function 'trim'
+	...\project\aardio工程3\addTask\main.aardio:39: in function 'page'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:485: in function 'loadcode'
+	[string "if( !request ){..."]:50: in function <[string "if( !request ){..."]:49>
+	[kernel]: in function 'callex'
+	...rdio\lib\wsock\tcp\simpleHttpServer.aardio:512: in function <...rdio\lib\wsock\tcp\simpleHttpServer.aardio:511>	15	

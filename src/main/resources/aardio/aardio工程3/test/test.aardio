@@ -1,0 +1,42 @@
+import console;
+import thread.works;
+
+var works = thread.works(20,
+	function(url) {
+		import console;
+		import inet.http;
+		
+		var http = inet.http();
+		var html,err,errCode = http.get(url);
+		console.print(err);
+		http.close();
+	}
+);
+var urls = {
+	"http://www.cnblogs.com/hammerc/p/4707163.html";
+	"http://blog.csdn.net/ganpengjin1/article/details/19865075";
+};
+/*
+for( i=0;1;1){
+
+}
+*/
+console.setTitle("sss");
+
+	for i,v in urls {
+	console.print(v);
+		works.push(v);
+	}
+ 
+//退出程序前,等待任务完成并关闭所有线程 
+works.waitClose(
+/**
+	function(r){
+		console.log( "检查成果", r  )
+	} 
+**/
+)
+
+console.log("end");
+
+execute("pause")

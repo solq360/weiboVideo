@@ -1,0 +1,58 @@
+if(response) {
+    response.jsonPrettyPrint = true; 
+	var url = request.query("url");
+	var title = request.query("title");
+	var index = request.query("index");
+ 	var suffix = request.query("suffix") || '';
+
+	
+function downTask(obj){
+	import console;
+	import com;	
+	var ret = true;
+
+	try{
+		var thunder = com.CreateObject("ThunderAgent.Agent")  
+		thunder.AddTask(
+			obj.url,//下载地址
+			null,//obj.title, //另存文件名
+			io.fullpath("/") , //保存目录
+			"", //任务注释
+			"", //引用地址
+			1,//开始模式
+			true, //只从原始地址下载
+			10 //从原始地址下载线程数
+			);
+		thunder.CommitTasks() 
+	}
+	catch(e){
+		//import win;
+		//win.msgbox("抱歉,您未安装迅雷");
+		console.varDump(e);
+		ret = false;
+	}
+	console.varDump(obj);
+	return    ret;
+}
+
+
+	url = string.trim(url);
+	url=string.replace(url,"^//","");
+	if(!string.startWith(url,"http://",true)){
+		url = "http://"+url;
+	}
+
+	if(title!=null){
+		title = title + suffix;
+	}
+/*
+	var ret = downTask({
+		url = url;
+		title = title;
+	});
+*/
+	var resultBody = request.query("cb")+"(0)";
+	response.write(resultBody);
+}
+
+
